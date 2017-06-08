@@ -1,2 +1,2 @@
 # graphql-fun
-Messing around with GraphQL and Express
+Messing around with GraphQL, Express and MongoDB
